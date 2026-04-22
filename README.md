@@ -24,7 +24,7 @@ STEP 1: CLONE THE REPOSITORY
 
 First, get the project code from GitHub. Open a terminal (like Command Prompt or Git Bash) and run this command:
 
-git clone https://github.com/labAyush/GMS
+git clone https://github.com/ayuushpokharel/gms
 
 cd GMS
 
