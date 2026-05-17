@@ -37,8 +37,3 @@ Password: admin123
 ## Author
 
 Ayush Pokharel
-
-```
-
-If you want, I can make a **:contentReference[oaicite:0]{index=0}** too 👍
-```
